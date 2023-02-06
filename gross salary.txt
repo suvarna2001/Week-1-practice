@@ -1,0 +1,6 @@
+STEP 1:Read basic salary
+STEP 2: hra=87*basic salary/100
+STEP 3: da= 89*basic salary/100
+STEP 4:gross salry=basic salary +hra+da
+STEP 5: compute gross salry.
+STEP 6:Display gross salary.

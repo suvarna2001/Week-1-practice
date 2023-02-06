@@ -1,0 +1,8 @@
+Write an algorithm to aceept 3 subjects marks and printbtotal and average
+
+Step 1:read sub1 marks
+Step 2:read sub2 marks
+Step 3:read sub3 marks
+Step 4:add sub1,sub2,and sub3 and store in total variable
+Step 5:find average:(total/3).
+Step 6:display total and average.
