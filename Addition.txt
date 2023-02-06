@@ -1,0 +1,6 @@
+Adding two numbers
+
+STEP 1:Read first number
+STEP 2:Read second number
+STEP 3:SUM =add two numbers
+STEP 4:DISPLAY SUM.

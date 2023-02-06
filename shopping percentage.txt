@@ -1,0 +1,9 @@
+shopping bill percentage
+
+STEP1:Read salary of employee.
+STEP2:read shopping bill 1
+STEP3:read shpping bill 2
+STEP4:read shopping bill 3
+STEP5:add three shopping bill and store in variable. 
+STEP6:computation of percentage = bill 1+bill 2+bill3*100/salary
+STEP7:DISPLAY percentage.
