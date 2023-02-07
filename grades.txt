@@ -1,0 +1,12 @@
+STEP 1: Read project marks
+STEP 2: Read external marks
+STEP 3: Read internal marks
+STEP 4: compute (70*project marks)/100
+STEP 5: COMPUTE (20*EXTERNAL MARKS)/100
+STEP 6: compute  (10*internal marks)/100
+STEP 4: Check whether passed in three subjects
+STEP 5: COMPUTE TOTAL SCORE OF THREE SUBJECTS=project marks+external marks +internal marks
+STEP 6: IF >=90 MARKS,THEN "A" GRADE is provided.
+STEP 7: IF 70>=90 MARKS ,THEN "B" GRADE is provided.
+STEP 8: IF 50>=70 MARKS ,THEN "C" GRADE is provided.
+STEP 9: if <50 ,then "fail".
