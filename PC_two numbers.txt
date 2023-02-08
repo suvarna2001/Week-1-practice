@@ -1,0 +1,17 @@
+Begin
+   number first ,second
+   number add,sub,div,mul
+   print("Enter first number")
+   input num1
+   print("Enter second number")
+   input num2
+   add=num1+num2
+   sub=num1-num2
+   div=num1/num2
+   mul=num1*num2
+print("addition:",add)
+print("subtraction:",sub)
+print("dividsion:",div)
+print("multiplication:",mul)
+
+end
