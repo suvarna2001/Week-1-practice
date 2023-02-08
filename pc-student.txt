@@ -1,0 +1,19 @@
+Begin
+ 
+ string name,email,college,city
+ number marks,mobile 
+ print("Enter student name")
+ input name
+ print("Enter student email")
+ input email
+ print("Enter student college")
+ input college
+ print("Enter student city")
+ input city
+ print("student marks")
+ input marks
+ print("student mobile number")
+ input mobile
+Display("Student name:",name ;"student email:",email;"Student college:",college;"student city:",city;:student marks:",marks;"student mobile number:",mobile)
+
+end

@@ -1,0 +1,49 @@
+
+Begin
+number internal,external,project,int,ext,pro
+number total
+
+ print("Enter project marks")
+ input project
+
+ print("enter external marks")
+ input external
+
+ print("enter internal marks")
+ input internal 
+
+ if int>=50 && ext>=50 && proj>=50
+{​​​​​
+pro=(project*70)/100
+ext=(external*20)/100
+int=(internal*10)/100
+
+total =pro + ext + int 
+if total>90
+{​​​​​
+print("Grade A")
+}​​​
+else if total>70
+{​​​​​
+print("Grade B")
+}​​​​​
+else
+{​​​​​
+print("Grade C")
+}​​​​​
+}​​​​​
+else if project<50
+{​​​​​
+print("failed in project ",project)
+}​​​​​
+if external<50
+{​​​​​
+print("failed in external ",external)
+}​​​​​
+if internal<50
+{​​​​​
+print("failed in internal ",internal)
+}
+
+​​​​​ end
+
