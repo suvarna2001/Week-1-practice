@@ -1,0 +1,20 @@
+Begin
+
+number num1
+
+print("Enter number to check it is +ve,-ve 0r zero")
+input num1
+
+ if num1>0
+{
+ print(num1,"is +ve number");
+}
+else if num1==0
+{
+print(num1,"is zero")
+}
+else 
+{
+print(num1,”is +ve number”)
+}
+end

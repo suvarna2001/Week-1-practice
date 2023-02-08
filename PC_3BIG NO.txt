@@ -1,0 +1,24 @@
+Begin
+
+number num1,num2,num3
+
+print("Enter first number")
+input num1
+print("Enter second number")
+input num2
+print("Enter third number")
+input num2
+
+ if num1>num2 && num1>num3
+{
+ print(num1,"is biggest number");
+}
+else if(num2>num3)
+{
+print(num2,"is biggest number")
+}
+else
+{
+print(num3,"is biggest number")
+}
+end
