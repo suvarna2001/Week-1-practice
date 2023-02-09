@@ -1,0 +1,11 @@
+Begin
+Number number,count=1;
+print("Enter a number")
+Input number
+while(count<number)
+ {
+number=number*count
+print(number)
+count=count+1
+}
+End

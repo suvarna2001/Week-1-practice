@@ -1,0 +1,14 @@
+
+Begin 
+     number num=1,even=0,odd=0
+     while num<=10
+          if (num%2==0)
+             evensum=even+num
+             num=num+1
+          else
+             oddsum=odd+num
+             num=num+1
+     print("sum of even numbers ",evensum)
+     print("sum of odd numbers ",oddsum)
+end
+

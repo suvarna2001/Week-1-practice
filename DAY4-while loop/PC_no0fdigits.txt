@@ -1,0 +1,11 @@
+Begin 
+Number number, digits=0  
+print("Enter a number")  
+Input number  
+while (number >= 0)
+{
+number = number / 10;
+digits=digits+1;
+}
+print("number of digits :",digits)
+End
