@@ -1,0 +1,23 @@
+# WRITE A CODE TO PRINT PRIME NUMBERS USING FOR LOOP
+
+Begin
+number num,i=1,count=0
+print("enter the number")
+input num
+for(i=1;i<=num/2;i++)
+{
+if(num%i==0)
+{
+count=count+1
+}
+}
+print("number of factors:",count)
+if(count==1)
+{
+print("it is a prime number")
+}
+else
+{
+print("it is not a prime number")
+}
+end

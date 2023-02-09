@@ -1,0 +1,13 @@
+9.WRITE A CODE TO PRINT TOTAL NUMBER OF FACTORS OF A NUMBER USING FOR LOOP
+
+Begin
+number num,i=1,count=0
+print("enter the number")
+input num
+for(i=1;i<+num/2;i++)
+{
+if(num%i==0)
+{count=count+1}
+}
+print("number of factors:",count)
+end

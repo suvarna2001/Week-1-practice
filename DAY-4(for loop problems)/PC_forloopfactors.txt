@@ -1,0 +1,15 @@
+8.WRITE CODE TO PRINT FACTORS OF A NUMBER using for loop
+
+Begin
+number num,i=1
+print("enter the number")
+input num
+
+for(i=1;i<=num/2;i++)
+{
+if(num%i==0)
+{
+print(I)
+}
+}
+end

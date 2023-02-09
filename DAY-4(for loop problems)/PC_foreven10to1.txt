@@ -1,0 +1,12 @@
+3.write code to print even numbers 10-1 using for loop
+
+Begin
+  number num=10
+  for(num=10;num>=1;num--)
+{
+if(num%2==0)
+{
+print(num)
+}
+}
+end

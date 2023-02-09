@@ -1,0 +1,18 @@
+6.write code to print sum of even numbers and odd numbers of 1-10 using for loop.
+
+Begin
+number num=1,esum=0,osum=0
+for(num=1,num<=10;num++)
+{
+if(num%2==0)
+{
+esum=esum+num
+}
+else
+{
+osum=osum+num
+}
+}
+print(esum,"is the sum of even numbers")
+print(osum,"is the sum of odd numbers")
+end

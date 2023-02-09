@@ -1,0 +1,18 @@
+# WRITE A CODE TO ACCEPT A NUMBER AND PRINT TABLE FOR IT USING FOR LOOP
+  
+INPUT:2
+ 2*1=2
+2*2=4
+2*10=20
+
+
+Begin
+number num,i=1,sum
+print("enter a number")
+input num
+for(i=1;i<=10;i+=)
+{
+sum=num*i
+print(num,"*",i,"=",sum)
+}
+end

@@ -1,0 +1,12 @@
+4. write code to print odd numbers 1-10 using for loop
+
+Begin
+number num=1
+for(num=1;num<=10;num++)
+{
+if(num%2!=0)
+{
+print(num)
+}
+}
+end                                   

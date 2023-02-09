@@ -1,0 +1,22 @@
+# WRITE A CODE TO PRINT PERFECT NUMBER USING FOR LOOP
+
+Begin
+number num,i=1,sum=0
+print("enter the number")
+input num
+for(i=1;i<=num/2;i++)
+{
+if(num%i==0)
+{
+sum=sum+i
+}
+}
+if(sum==num)
+{
+print("it is a perfect number")
+}
+else
+{
+print("it is not a perfect number")
+}
+end
